@@ -100,15 +100,8 @@ After running, you'll find these files in the `models/` folder:
 - **NumPy warnings**: These are normal and won't affect the project
 - **Slow loading**: The dataset is large (175MB), so it may take a moment to load
 
-## 📝 Next Steps
 
-Once the model is trained, you can:
-- Use the saved models to predict on new articles
-- Improve the model with more data
-- Build a web interface for easy use
-- Add more features like source credibility
-
-## 🤝 Contributing
+##  Contributing
 
 Feel free to contribute to this project by:
 - Reporting bugs
@@ -116,10 +109,9 @@ Feel free to contribute to this project by:
 - Improving the documentation
 - Adding new models or preprocessing techniques
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+##  License
 
 ---
 
-**Happy Fake News Detection! 🕵️‍♂️**
+
+
