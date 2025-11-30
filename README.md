@@ -109,9 +109,7 @@ Feel free to contribute to this project by:
 - Improving the documentation
 - Adding new models or preprocessing techniques
 
-##  License
 
----
 
 
 
