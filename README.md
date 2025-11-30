@@ -1,6 +1,6 @@
 # Fake News Detection Project
 
-A simple machine learning project that can detect fake news articles using text analysis.
+A simple machine learning project that can detect fake news articles using text analysis. The dataset used here is taken from Kagel.
 
 ## What This Project Does
 
@@ -108,6 +108,7 @@ Feel free to contribute to this project by:
 - Suggesting new features
 - Improving the documentation
 - Adding new models or preprocessing techniques
+
 
 
 
